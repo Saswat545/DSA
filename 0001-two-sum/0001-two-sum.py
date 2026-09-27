@@ -1,7 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        for i in range (len(nums)):
-            for j in range (len(nums)):
-                if i!=j and nums[i] + nums[j] == target:
-                    return [i,j]
-        
+        prevmap=dict()
+        for i , j in enumerate (nums):
+            prevmap[j] = i
+        for i,j in enumerate(nums):
+            diff = target-j
+            if diff in prevmap and prevmap[diff] != i:
+                return [prevmap[diff],i] 
