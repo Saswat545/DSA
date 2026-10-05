@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saswat545/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saswat545/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Saswat545/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Saswat545/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
