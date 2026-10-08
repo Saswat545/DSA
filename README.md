@@ -92,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Saswat545/DSA/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Saswat545/DSA/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Saswat545/DSA/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
