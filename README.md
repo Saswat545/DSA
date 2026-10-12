@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Saswat545/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Saswat545/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saswat545/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Saswat545/DSA/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/Saswat545/DSA/tree/master/1672-richest-customer-wealth) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Saswat545/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Saswat545/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Saswat545/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
