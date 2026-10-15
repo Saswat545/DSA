@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saswat545/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Saswat545/DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Saswat545/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Saswat545/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saswat545/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saswat545/DSA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Saswat545/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saswat545/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Saswat545/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
