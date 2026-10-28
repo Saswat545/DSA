@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saswat545/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saswat545/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saswat545/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saswat545/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Saswat545/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Saswat545/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Saswat545/DSA/tree/master/0049-group-anagrams) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saswat545/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saswat545/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saswat545/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Saswat545/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Saswat545/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saswat545/DSA/tree/master/0242-valid-anagram) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saswat545/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saswat545/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saswat545/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saswat545/DSA/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Saswat545/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Saswat545/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saswat545/DSA/tree/master/0160-intersection-of-two-linked-lists) |
