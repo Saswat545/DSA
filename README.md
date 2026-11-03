@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saswat545/DSA/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/Saswat545/DSA/tree/master/1672-richest-customer-wealth) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Saswat545/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saswat545/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saswat545/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Saswat545/DSA/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Saswat545/DSA/tree/master/1518-water-bottles) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saswat545/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
